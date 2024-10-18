@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4D8B8-104F-4E28-9DC5-F1F33B228367}|gitotravez\\gitotravez.csproj|c:\\users\\jesus daniel\\desktop\\remake\\gitotravez\\gitotravez\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E4D8B8-104F-4E28-9DC5-F1F33B228367}|gitotravez\\gitotravez.csproj|solutionrelative:gitotravez\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4D8B8-104F-4E28-9DC5-F1F33B228367}|gitotravez\\gitotravez.csproj|c:\\users\\jesus daniel\\desktop\\remake\\gitotravez\\gitotravez\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E4D8B8-104F-4E28-9DC5-F1F33B228367}|gitotravez\\gitotravez.csproj|solutionrelative:gitotravez\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E4D8B8-104F-4E28-9DC5-F1F33B228367}|gitotravez\\gitotravez.csproj|c:\\users\\jesus daniel\\desktop\\remake\\gitotravez\\gitotravez\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E4D8B8-104F-4E28-9DC5-F1F33B228367}|gitotravez\\gitotravez.csproj|solutionrelative:gitotravez\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\gitotravez\\App.xaml.cs",
+              "RelativeDocumentMoniker": "gitotravez\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\gitotravez\\App.xaml.cs",
+              "RelativeToolTip": "gitotravez\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:23:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\gitotravez\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "gitotravez\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\gitotravez\\MainPage.xaml.cs",
+              "RelativeToolTip": "gitotravez\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:22:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\gitotravez\\MainPage.xaml",
+              "RelativeDocumentMoniker": "gitotravez\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\remake\\gitotravez\\gitotravez\\MainPage.xaml",
+              "RelativeToolTip": "gitotravez\\MainPage.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T04:21:44.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

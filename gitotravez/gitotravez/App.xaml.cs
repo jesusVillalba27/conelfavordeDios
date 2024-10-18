@@ -1,12 +1,10 @@
 ﻿namespace gitotravez
 {
-    public partial class App : Application
+    public partial class Page1 : ContentPage
     {
-        public App()
+        public Page1()
         {
             InitializeComponent();
-
-            MainPage = new AppShell();
         }
     }
 }
